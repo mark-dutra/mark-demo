@@ -5,10 +5,14 @@ iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?ra
 displayName: This is the display name
 metadata:
   name: mark-demo
-  title: Rick Demo
+  title: Rick Demo1
   annotations:
     github.com/project-slug: mark-dutra/mark-demo
 spec:
   type: service
   lifecycle: experimental
   owner: devsecops
+links:
+      url: https://www.google.com/
+      title: My Link
+      icon: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
