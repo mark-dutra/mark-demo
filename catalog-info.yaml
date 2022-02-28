@@ -2,9 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: mark-demo
+  title: Rick Demo
   annotations:
     github.com/project-slug: mark-dutra/mark-demo
 spec:
-  type: other
-  lifecycle: unknown
+  type: service
+  lifecycle: experimental
   owner: devsecops
