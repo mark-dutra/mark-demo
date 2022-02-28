@@ -2,16 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: mark-demo
-  title: Rick Demo2
-  description: This is a sandbox component to learn about catalog entries
-  iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
-  displayName: This is the display name
+  title: Rick Demo3
   annotations:
     github.com/project-slug: mark-dutra/mark-demo
-  links:
-    url: https://www.google.com/
-    title: My Link
-    icon: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
 spec:
   type: service
   lifecycle: experimental
