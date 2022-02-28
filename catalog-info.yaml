@@ -1,5 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
+description: This is a sandbox component to learn about catalog entries
+iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
+displayName: This is the display name
 metadata:
   name: mark-demo
   title: Rick Demo
