@@ -2,8 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: mark-demo
-  title: Rick Demo5
+  title: Rick Demo6
   description: This is a sandbox component to learn about catalog entries
+  displayName: This is the display name
   annotations:
     github.com/project-slug: mark-dutra/mark-demo
 spec:
