@@ -5,9 +5,6 @@ metadata:
   title: Mark Demo1
   description: This is a sandbox component to learn about catalog entries
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
-   links:
-    url: https://www.google.com/
-    title: My Link
   annotations:
     github.com/project-slug: mark-dutra/mark-demo
 spec:
