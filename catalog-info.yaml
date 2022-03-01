@@ -4,6 +4,10 @@ metadata:
   name: mark-demo
   title: Mark Demo1
   description: This is a sandbox component to learn about catalog entries
+  tags: 
+    - java
+    - sso
+    - client
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   annotations:
     github.com/project-slug: mark-dutra/mark-demo
@@ -11,4 +15,5 @@ spec:
   type: service
   lifecycle: experimental
   owner: devsecops
+  system: java
 
