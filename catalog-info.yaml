@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: mark-demo
-  title: Mark Demo1
+  title: Mark Demo2
   description: This is a sandbox component to learn about catalog entries
   tags: 
     - java
@@ -11,6 +11,10 @@ metadata:
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   annotations:
     github.com/project-slug: mark-dutra/mark-demo
+  links:
+  - url: https://www.google.com/
+    title: My Link
+    icon: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
 spec:
   type: service
   lifecycle: experimental
