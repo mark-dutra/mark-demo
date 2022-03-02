@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: mark-demo
-  title: Mark Demo3
+  title: Mark Demo4
   description: This is a sandbox component to learn about catalog entries
   tags: 
     - java
@@ -19,4 +19,5 @@ spec:
   lifecycle: experimental
   owner: devsecops
   system: java
+  dependsOn: [Component:sample-asset]
 
