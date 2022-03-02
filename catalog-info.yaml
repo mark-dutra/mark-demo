@@ -20,5 +20,5 @@ spec:
   owner: devsecops
   system: java
   dependsOn: [Component:sample-asset]
-  dependsOn: [Resource:sample-asset]
+ 
 
