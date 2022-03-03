@@ -17,7 +17,7 @@ metadata:
   - url: http://tap-gui.tkgi-apps.wnp.polaris.cvshealthcloud.com/catalog/default/component/sample-asset
     title: Next version
 spec:
-  type: service
+  type: library
   lifecycle: production
   owner: devsecops
   system: java
