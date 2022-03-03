@@ -14,7 +14,7 @@ metadata:
   links:
   - url: https://www.google.com/
     title: Google apis
-  - url:  - url: http://tap-gui.tkgi-apps.wnp.polaris.cvshealthcloud.com/catalog/default/component/sample-asset
+  - url: http://tap-gui.tkgi-apps.wnp.polaris.cvshealthcloud.com/catalog/default/component/sample-asset
     title: Next version
 spec:
   type: service
