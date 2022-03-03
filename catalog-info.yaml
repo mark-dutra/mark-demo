@@ -14,7 +14,7 @@ metadata:
   - url: https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html
     title: JDBC Information Page
   - url: http://tap-gui.tkgi-apps.wnp.polaris.cvshealthcloud.com/catalog/default/component/sample-asset
-    title: Previous version
+    title: Previous version (4.2)
 spec:
   type: library
   lifecycle: production
