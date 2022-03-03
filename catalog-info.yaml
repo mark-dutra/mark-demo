@@ -2,21 +2,23 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: mark-demo
-  title: Mark Demo5
+  title: JDBC
   description: This is a sandbox component to learn about catalog entries
   tags: 
     - java
-    - sso
+    - db
     - client
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   annotations:
     github.com/project-slug: mark-dutra/mark-demo
   links:
   - url: https://www.google.com/
-    title: My Link
+    title: Google apis
+  - url:  - url: http://tap-gui.tkgi-apps.wnp.polaris.cvshealthcloud.com/catalog/default/component/sample-asset
+    title: Next version
 spec:
   type: service
-  lifecycle: experimental
+  lifecycle: production
   owner: devsecops
   system: java
   dependsOn: [Component:sample-asset]
