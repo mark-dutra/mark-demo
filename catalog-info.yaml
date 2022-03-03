@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: mark-demo
+  name: JDBC-v4.3
   title: JDBC
-  description: This is a sandbox component to learn about catalog entries
+  description: JDBC provides client access to databases from Java
   tags: 
     - java
     - db
@@ -15,12 +15,11 @@ metadata:
   - url: https://www.google.com/
     title: Google apis
   - url: http://tap-gui.tkgi-apps.wnp.polaris.cvshealthcloud.com/catalog/default/component/sample-asset
-    title: Next version
+    title: Previous version
 spec:
   type: library
   lifecycle: production
   owner: devsecops
   system: java
-  dependsOn: [Component:sample-asset]
- 
+  
 
