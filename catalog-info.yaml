@@ -2,13 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: JDBC-v4.3
-  title: JDBC-v4.3
+  title: JDBC-v4.3a
   description: JDBC provides client access to databases from Java
   tags: 
     - java
     - db
     - client
-  iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   annotations:
     github.com/project-slug: mark-dutra/mark-demo
   links:
@@ -19,7 +18,7 @@ metadata:
 spec:
   type: library
   lifecycle: production
-  owner: DBA Team
+  owner: devsecops
   system: java
   
 
