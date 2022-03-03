@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: JDBC-v4.3
-  title: JDBC
+  title: JDBC-v4.3
   description: JDBC provides client access to databases from Java
   tags: 
     - java
