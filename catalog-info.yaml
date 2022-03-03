@@ -12,14 +12,14 @@ metadata:
   annotations:
     github.com/project-slug: mark-dutra/mark-demo
   links:
-  - url: https://www.google.com/
-    title: Google apis
+  - url: https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html
+    title: JDBC Information Page
   - url: http://tap-gui.tkgi-apps.wnp.polaris.cvshealthcloud.com/catalog/default/component/sample-asset
     title: Previous version
 spec:
   type: library
   lifecycle: production
-  owner: devsecops
+  owner: DBA Team
   system: java
   
 
