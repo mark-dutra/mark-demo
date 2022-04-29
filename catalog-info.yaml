@@ -18,7 +18,7 @@ metadata:
 spec:
   type: library
   lifecycle: production
-  owner: devsecops
+  owner: mark.dutra@cvshealth.com
   system: java
   
 
